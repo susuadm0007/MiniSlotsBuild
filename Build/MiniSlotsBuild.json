@@ -1,7 +1,7 @@
 {
 "companyName": "JoanGinardMateo",
 "productName": "MiniSlots",
-"productVersion": "0.1",
+"productVersion": "1.0",
 "dataUrl": "MiniSlotsBuild.data.unityweb",
 "wasmCodeUrl": "MiniSlotsBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "MiniSlotsBuild.wasm.framework.unityweb",
